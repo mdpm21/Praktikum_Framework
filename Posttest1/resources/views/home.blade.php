@@ -43,18 +43,15 @@
 							Game of The Year <br/>
 							<!-- Menggunakan Unity -->
 							<div class="deskripsi1"> 
-								Terus berkembangnya industri game di 
-								Indonesia membuat game <br/> 
-								development menjadi skill yang 
-								sangat berharga saat ini <br/>
-                                aa <br/>
-                                aa <br/>
-                                aa
+								Game of the Year atau yang lebih biasa disebut GotY <br/> 
+								merupakan penghargaan yang diberikan oleh berbagai  <br/> 
+								acara penghargaan untuk video game yang dinilai sebagai <br/> 
+								yang terbaik dari tahun kalender tersebut 
 							</div>
 						</h1>
 						<div class="btn-get-started"> 
 							<a href="/games" class="btn">Data</a>
-							<!-- <a href="#" class="btn2">More Info</a> -->
+							<a href="#" class="btn2">More Info</a>
 						</div>
 					</div>					
 				</div>
